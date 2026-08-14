@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maMai20/maMai20/main/cat-console.svg" width="100%" alt="Animated cat coding under the stars">
+<img src="https://raw.githubusercontent.com/maMai20/maMai20/main/cat-profile.svg" width="100%" alt="Animated pixel cat profile hero">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+development%2C+one+project+at+a+time;Learning+through+real+projects;Building+clean%2C+useful+interfaces" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+development%2C+one+project+at+a+time;Learning+through+real+projects;Building+clean%2C+useful+interfaces" alt="Animated introduction">
 
 <br>
 
@@ -30,12 +30,21 @@ Frontend development, one project at a time — with a focus on clean interfaces
 
 > 🐾 Cat-approved workflow: observe → build → improve.
 
+## ✦ Profile dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maMai20&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=67e8f9&amp;text_color=e2e8f0&amp;icon_color=f9a8d4&amp;rank_icon=github" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maMai20&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=67e8f9&amp;text_color=e2e8f0" height="165" alt="Top languages">
+
+</div>
+
 ## 🌌 Coding journey
 
 <div align="center">
 
 <a href="https://github.com/maMai20">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&amp;bg_color=0b1020&amp;color=c4b5fd&amp;line=8b5cf6&amp;point=f9a8d4&amp;area=true&amp;hide_border=true&amp;custom_title=Coding%20Journey%20%E2%9C%A6" width="100%" alt="Coding activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&amp;bg_color=0b1020&amp;color=67e8f9&amp;line=22d3ee&amp;point=f9a8d4&amp;area=true&amp;hide_border=true&amp;custom_title=Coding%20Journey%20%E2%9C%A6" width="100%" alt="Coding activity graph">
 </a>
 
 </div>
@@ -60,7 +69,7 @@ A hands-on productivity workspace that brings everyday tools into one interface.
 
 <p>
   <a href="https://github.com/maMai20/SuckTv2">
-    <img src="https://img.shields.io/badge/View%20project-SuckT-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View SuckT project">
+    <img src="https://img.shields.io/badge/View%20project-SuckT-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View SuckT project">
   </a>
 </p>
 
