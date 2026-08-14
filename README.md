@@ -2,7 +2,7 @@
 
 # Hi, I'm Kimmy 👋
 
-### Frontend Developer building practical, interactive web experiences.
+### Frontend Developer learning by building practical, interactive web experiences.
 
 <p>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React">
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  I enjoy turning ideas into clean interfaces, useful tools, and thoughtful user flows.
+  I enjoy turning ideas into clean interfaces, useful tools, and thoughtful user flows while growing through hands-on projects.
 </p>
 
 </div>
@@ -20,17 +20,17 @@
 
 ## 👋 About me
 
-- 🎨 Interested in frontend development and user-focused interfaces
-- 🧩 Building with React, Next.js, TypeScript, and modern CSS
-- 🛠️ Learning through real projects and hands-on experimentation
-- 🌱 Improving my skills in accessibility, responsive design, and maintainable UI
+- 🎨 Exploring frontend development and user-focused interfaces
+- 🧩 Learning by building with React, Next.js, TypeScript, and modern CSS
+- 🛠️ Growing through practical projects and hands-on experimentation
+- 🌱 Deepening my skills in accessibility, responsive design, and maintainable UI
 - 🤝 Open to feedback, collaboration, and opportunities to grow
 
 ## ⭐ Featured project
 
 ### [SuckT — Productivity Workspace](https://github.com/maMai20/SuckTv2)
 
-A productivity workspace that brings everyday tools into one interface.
+A hands-on productivity workspace that brings everyday tools into one interface.
 
 | Built features | What it demonstrates |
 | --- | --- |
@@ -57,7 +57,7 @@ A productivity workspace that brings everyday tools into one interface.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 </p>
 
-## 🌱 Currently improving
+## 🌱 Currently exploring
 
 ```
 Responsive UI       ███████████████████░  90%
