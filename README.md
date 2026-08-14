@@ -1,90 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=A7F3D0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Kimmy+%2F+Frontend+Developer;Building+practical+interfaces;Learning+through+real+projects;React+%2B+Next.js+%2B+TypeScript" alt="Animated name and profile focus">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A7F3D0&center=true&vCenter=true&width=820&lines=Kimmy+%2F+Frontend+Developer;Turning+ideas+into+usable+interfaces;Building+with+React+%2B+Next.js;Learning+in+public%2C+one+project+at+a+time" alt="Animated name and profile focus">
 
 <br>
 
 ✦ ⋆｡°✩ ☾ ✩°｡⋆ ✦
 
 <p>
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=111827" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-App%20Router-111827?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React 19">
+  <img src="https://img.shields.io/badge/Next.js-App%20Router-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js App Router">
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 5">
 </p>
+
+<sub>Frontend-focused • Practical projects • Always refining the details</sub>
 
 </div>
 
 ---
 
-## Current focus
+## ✦ A quick snapshot
 
-Frontend development through practical projects, with attention to clean interfaces, useful interactions, and thoughtful user flows.
+I build frontend experiences that feel clear, useful, and considered — from the first interaction to the small details that make an interface easier to use.
 
-- Building with React, Next.js, TypeScript, and modern CSS
-- Exploring responsive layouts and accessible components
-- Improving structure, maintainability, and visual detail
-- Turning small ideas into projects people can actually use
+| Focus | What that looks like |
+| --- | --- |
+| UI engineering | Responsive layouts, reusable components, and consistent visual systems |
+| Product thinking | Turning everyday problems into simple, usable flows |
+| Growth mindset | Learning through real projects, feedback, and iteration |
+| Current direction | React, Next.js, TypeScript, and stronger frontend fundamentals |
 
-## Featured project
+## ⚡ Current build
 
 ### [SuckT — Productivity Workspace](https://github.com/maMai20/SuckTv2)
 
-A productivity workspace that brings everyday tools into one interface.
+A calm productivity workspace that brings tasks, planning, and focus tools together in one interface.
 
-| Built feature | What it demonstrates |
+| Feature | What it demonstrates |
 | --- | --- |
-| To-do list | Stateful interactions and task organization |
-| Calendar | Interactive date and event experiences |
-| Focus timer | Time-based UI and user flow design |
-| Authentication UI | Login and registration screen flows |
-| Reusable UI | Component structure and CSS Modules |
+| To-do list | Stateful interactions and everyday task organization |
+| Calendar | Interactive date planning and event-oriented UI |
+| Focus timer | Time-based state and focused user flows |
+| Authentication UI | Login and registration screen experiences |
+| Ambient media | GIF and background-audio experiments |
+| Reusable UI | React components, CSS Modules, and theme-aware styling |
 
 <p>
   <a href="https://github.com/maMai20/SuckTv2">
-    <img src="https://img.shields.io/badge/View%20project-SuckT-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View SuckT project">
+    <img src="https://img.shields.io/badge/Explore%20SuckT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore SuckT">
+  </a>
+  <a href="https://github.com/maMai20/SuckTv2/commits/main">
+    <img src="https://img.shields.io/badge/Read%20the%20build%20history-1E293B?style=for-the-badge&logo=git&logoColor=A7F3D0" alt="Read build history">
   </a>
 </p>
 
-## Toolkit
+## 🧰 Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=111827" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-111827?logo=next.js&amp;logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=111827" alt="JavaScript">
-  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?logo=css3&amp;logoColor=white" alt="CSS Modules">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=111827" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111827?logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?logo=css3&logoColor=white" alt="CSS Modules">
+  <img src="https://img.shields.io/badge/FullCalendar-3788D8" alt="FullCalendar">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/Day.js-FF5F56" alt="Day.js">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 </p>
 
-## Coding journey
+## 📊 GitHub snapshot
 
 <div align="center">
 
 <a href="https://github.com/maMai20">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&amp;bg_color=0b1020&amp;color=67e8f9&amp;line=22d3ee&amp;point=f9a8d4&amp;area=true&amp;hide_border=true&amp;custom_title=Coding%20Journey%20%E2%9C%A6" width="100%" alt="Coding activity graph">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maMai20&show_icons=true&hide_border=true&bg_color=0b1020&title_color=A7F3D0&text_color=CBD5E1&icon_color=67E8F9&rank_icon=github" alt="Kimmy's GitHub statistics">
+</a>
+<a href="https://github.com/maMai20">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maMai20&layout=compact&hide_border=true&bg_color=0b1020&title_color=A7F3D0&text_color=CBD5E1" alt="Kimmy's most used languages">
 </a>
 
 </div>
 
-<p align="center">
-  ✦ Every commit is another small step forward ✦
-</p>
+<div align="center">
 
-## Learning next
+<a href="https://github.com/maMai20">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&bg_color=0b1020&color=67e8f9&line=22d3ee&point=f9a8d4&area=true&hide_border=true&custom_title=Coding%20Journey%20%E2%9C%A6" width="100%" alt="Kimmy's coding activity graph">
+</a>
 
-| Area | Focus |
-| --- | --- |
-| UI engineering | Responsive components and clearer patterns |
-| Quality | Testing, accessibility, and maintainable TypeScript |
-| Product thinking | Turning ideas into simple, useful flows |
-| Collaboration | Learning from feedback and sharing progress |
+</div>
 
-## Open to
+## 🧭 How I build
 
-Feedback, collaboration, and opportunities to grow through real frontend work.
+1. Start with the user flow and the problem it should solve.
+2. Break the interface into small, reusable pieces.
+3. Add the interaction states that make the experience feel natural.
+4. Refine the layout, responsiveness, accessibility, and visual details.
+5. Keep learning from the next iteration.
+
+## 🌱 Learning next
+
+- Testing interactive components and important user flows
+- Improving accessibility and responsive behavior
+- Writing clearer, more maintainable TypeScript
+- Consolidating project structure and documenting data flow
+- Shipping a polished live demo
+
+## ✨ Open to
+
+Early-career frontend opportunities, thoughtful collaboration, and feedback from people who enjoy building useful things.
 
 <div align="center">
 
 ✦ ⋆｡°✩ ☾ ✩°｡⋆ ✦
+
+<sub>Build something useful. Make it feel good to use.</sub>
 
 </div>
