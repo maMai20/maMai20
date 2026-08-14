@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=A7F3D0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Kimmy+%2F+Frontend+Developer;Turning+ideas+into+usable+interfaces;Building+with+React+%2B+Next.js;Learning+in+public%2C+one+project+at+a+time" alt="Animated name and profile focus">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=A7F3D0&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Kimmy+%2F+Frontend+Developer;Building+practical+interfaces;Exploring+patterns+that+scale;Learning+by+shipping+real+projects" alt="Animated name and profile focus">
 
 <br>
 
 ✦ ⋆｡°✩ ☾ ✩°｡⋆ ✦
+
+<p>
+  <a href="#-featured-build">Build</a>
+  &nbsp;·&nbsp;
+  <a href="#-toolkit">Toolkit</a>
+  &nbsp;·&nbsp;
+  <a href="#-coding-journey">Journey</a>
+  &nbsp;·&nbsp;
+  <a href="#-open-to">Open to</a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111827" alt="React 19">
@@ -17,6 +27,18 @@
 </div>
 
 ---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>BUILD</strong><br><sub>Useful interfaces</sub></td>
+    <td align="center"><strong>REFINE</strong><br><sub>Clear interactions</sub></td>
+    <td align="center"><strong>GROW</strong><br><sub>One iteration at a time</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ## ✦ What I build
 
@@ -46,7 +68,9 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
   <img src="https://img.shields.io/github/languages/top/maMai20/SuckTv2?style=flat-square&amp;label=primary%20language&amp;color=A7F3D0" alt="SuckT primary language">
 </p>
 
-#### Inside the build
+<details>
+  <summary><strong>What this project demonstrates</strong></summary>
+  <br>
 
 - **Plan:** a to-do list for organizing everyday tasks
 - **Schedule:** an interactive calendar for planning time
@@ -54,6 +78,8 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
 - **Flow:** login and registration screen experiences
 - **Atmosphere:** GIF and background-audio experiments
 - **System:** reusable React components and theme-aware styling
+
+</details>
 
 <p>
   <a href="https://github.com/maMai20/SuckTv2">
@@ -91,6 +117,18 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
 - I pay attention to loading, empty, active, and error states.
 - I refine for responsiveness, accessibility, and a calmer visual rhythm.
 
+<details>
+  <summary><strong>What I am improving next</strong></summary>
+  <br>
+
+- Testing interactive components and important user flows
+- Improving accessibility and responsive behavior
+- Writing clearer, more maintainable TypeScript
+- Consolidating project structure and documenting data flow
+- Shipping a polished live demo
+
+</details>
+
 ## 📈 Coding journey
 
 <div align="center">
@@ -103,17 +141,15 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
 
 </div>
 
-## 🌱 Learning next
-
-- Testing interactive components and important user flows
-- Improving accessibility and responsive behavior
-- Writing clearer, more maintainable TypeScript
-- Consolidating project structure and documenting data flow
-- Shipping a polished live demo
-
-## 🤝 Open to
+## ✦ Open to
 
 Early-career frontend opportunities, thoughtful collaboration, and feedback from people who enjoy building useful things.
+
+<p>
+  <a href="https://github.com/maMai20/SuckTv2">View the featured project</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/maMai20">View all repositories</a>
+</p>
 
 <div align="center">
 
