@@ -1,0 +1,90 @@
+<svg width="720" height="250" viewBox="0 0 720 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">A cat learning to code under the stars</title>
+  <desc id="desc">An animated pixel-inspired cat sits inside a dark terminal window with twinkling stars.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="720" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D1F"/>
+      <stop offset="0.55" stop-color="#17133B"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="20" y1="20" x2="700" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11172F"/>
+      <stop offset="1" stop-color="#0B1022"/>
+    </linearGradient>
+    <linearGradient id="catFur" x1="18" y1="40" x2="142" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9A8D4"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="720" height="250" rx="24" fill="url(#sky)"/>
+
+  <g fill="#FDE68A" filter="url(#glow)">
+    <circle cx="84" cy="42" r="2">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="174" cy="70" r="1.5">
+      <animate attributeName="opacity" values="1;0.25;1" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="290" cy="39" r="2">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="584" cy="47" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="654" cy="92" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M70 190C180 165 254 210 362 184C470 158 555 205 660 174" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="2"/>
+
+  <rect x="20" y="20" width="680" height="210" rx="18" fill="url(#screen)" stroke="#8B5CF6" stroke-opacity="0.8" stroke-width="2"/>
+  <path d="M20 62H700" stroke="#8B5CF6" stroke-opacity="0.35"/>
+
+  <g>
+    <circle cx="48" cy="41" r="6" fill="#FB7185"/>
+    <circle cx="68" cy="41" r="6" fill="#FBBF24"/>
+    <circle cx="88" cy="41" r="6" fill="#34D399"/>
+    <text x="116" y="46" fill="#A78BFA" font-family="monospace" font-size="13">~/learning-space</text>
+  </g>
+
+  <g font-family="monospace">
+    <text x="52" y="94" fill="#C4B5FD" font-size="15">cat@learning-space:~$</text>
+    <text x="52" y="121" fill="#F9A8D4" font-size="17">building interfaces...</text>
+    <text x="52" y="150" fill="#A7F3D0" font-size="15">learning by shipping small projects</text>
+    <rect x="52" y="168" width="10" height="18" rx="2" fill="#F9A8D4">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="52" y="208" fill="#64748B" font-size="12">status: online  •  mode: learning  •  stars: on ✦</text>
+  </g>
+
+  <g transform="translate(488 83)">
+    <path d="M108 96C137 105 145 76 130 62" stroke="#F9A8D4" stroke-width="8" stroke-linecap="round" stroke-opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" values="0 112 85;12 112 85;-8 112 85;0 112 85" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <ellipse cx="72" cy="105" rx="54" ry="41" fill="url(#catFur)" stroke="#FBCFE8" stroke-width="2"/>
+    <path d="M28 72L22 22L57 50M115 50L150 22L144 72" fill="url(#catFur)" stroke="#FBCFE8" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M40 54C40 23 61 4 87 4C113 4 134 23 134 54V83C134 112 114 127 87 127C60 127 40 112 40 83V54Z" fill="url(#catFur)" stroke="#FBCFE8" stroke-width="2"/>
+    <path d="M34 33L24 24L27 51M130 33L140 24L137 51" stroke="#F9A8D4" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="66" cy="70" rx="6" ry="8" fill="#111827">
+      <animate attributeName="ry" values="8;8;0.6;8;8" keyTimes="0;0.44;0.48;0.52;1" dur="4.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="108" cy="70" rx="6" ry="8" fill="#111827">
+      <animate attributeName="ry" values="8;8;0.6;8;8" keyTimes="0;0.44;0.48;0.52;1" dur="4.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <path d="M82 87C87 91 92 91 97 87" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+    <path d="M45 85L14 79M45 94L12 97M130 85L160 79M130 94L163 97" stroke="#FBCFE8" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="152" cy="21" r="5" fill="#FDE68A" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
