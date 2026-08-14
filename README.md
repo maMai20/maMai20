@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Frontend+development+through+practical+projects;Learning+by+building+useful+interfaces;React%2C+Next.js%2C+TypeScript+%2B+curiosity" alt="Animated profile focus">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=A7F3D0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Kimmy+%2F+Frontend+Developer;Building+practical+interfaces;Learning+through+real+projects;React+%2B+Next.js+%2B+TypeScript" alt="Animated name and profile focus">
 
 <br>
 
