@@ -1,0 +1,101 @@
+<svg width="760" height="330" viewBox="0 0 760 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated pixel cat profile hero</title>
+  <desc id="desc">A small animated pixel-inspired cat under neon blue waves and stars, with a quiet frontend learning theme.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02050B"/>
+      <stop offset="0.58" stop-color="#071526"/>
+      <stop offset="1" stop-color="#0B2340"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#67E8F9"/>
+      <stop offset="0.82" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="4" fill="#D1FAE5" fill-opacity="0.8"/>
+      <rect y="4" width="8" height="4" fill="#67E8F9" fill-opacity="0.34"/>
+    </pattern>
+    <filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="760" height="330" rx="24" fill="url(#bg)"/>
+
+  <g fill="#E0F2FE">
+    <circle cx="92" cy="54" r="1.8">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="176" cy="91" r="1.2">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="580" cy="59" r="1.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="668" cy="102" r="1.3">
+      <animate attributeName="opacity" values="1;0.25;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="monospace">
+    <text x="52" y="50" fill="#67E8F9" fill-opacity="0.88" font-size="13" letter-spacing="2">FRONTEND / IN PROGRESS</text>
+    <text x="52" y="76" fill="#64748B" font-size="11">build • learn • improve</text>
+  </g>
+
+  <path d="M0 116C124 88 212 137 330 112C458 85 568 141 760 106" stroke="url(#wave)" stroke-width="3" filter="url(#cyanGlow)" stroke-opacity="0.95"/>
+  <path d="M0 122C124 94 212 143 330 118C458 91 568 147 760 112" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.3"/>
+  <path d="M0 262C132 227 225 280 349 252C475 224 592 280 760 241" stroke="url(#wave)" stroke-width="3" filter="url(#cyanGlow)" stroke-opacity="0.9"/>
+  <path d="M0 269C132 234 225 287 349 259C475 231 592 287 760 248" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.3"/>
+
+  <g transform="translate(302 116)">
+    <g transform-origin="94 100">
+      <path d="M137 108C183 126 191 89 169 73" stroke="#A7F3D0" stroke-width="9" stroke-linecap="round" stroke-opacity="0.9">
+        <animateTransform attributeName="transform" type="rotate" values="0 140 95;10 140 95;-8 140 95;0 140 95" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <ellipse cx="86" cy="135" rx="75" ry="57" fill="url(#scanlines)" stroke="#A7F3D0" stroke-width="2"/>
+    <path d="M25 96L16 27L59 67M116 67L159 27L150 96" fill="url(#scanlines)" stroke="#A7F3D0" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M39 77C39 37 63 9 91 9C119 9 143 37 143 77V111C143 148 121 169 91 169C61 169 39 148 39 111V77Z" fill="url(#scanlines)" stroke="#A7F3D0" stroke-width="2"/>
+    <path d="M28 42L18 29L22 65M154 42L164 29L160 65" stroke="#67E8F9" stroke-width="5" stroke-linecap="round"/>
+
+    <ellipse cx="68" cy="96" rx="7" ry="9" fill="#071526">
+      <animate attributeName="ry" values="9;9;0.7;9;9" keyTimes="0;0.44;0.48;0.52;1" dur="4.7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="115" cy="96" rx="7" ry="9" fill="#071526">
+      <animate attributeName="ry" values="9;9;0.7;9;9" keyTimes="0;0.44;0.48;0.52;1" dur="4.7s" repeatCount="indefinite"/>
+    </ellipse>
+    <path d="M83 117C89 122 96 122 102 117" stroke="#071526" stroke-width="3" stroke-linecap="round"/>
+    <path d="M43 114L6 105M43 125L4 130M139 114L176 105M139 125L178 130" stroke="#A7F3D0" stroke-width="2" stroke-linecap="round"/>
+
+    <circle cx="177" cy="17" r="5" fill="#FDE68A" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="monospace" text-anchor="middle">
+    <text x="380" y="205" fill="#E0F2FE" font-size="13" letter-spacing="1">meow ♡</text>
+    <rect x="336" y="220" width="88" height="25" rx="6" fill="#0EA5E9" fill-opacity="0.24" stroke="#38BDF8" stroke-opacity="0.9"/>
+    <text x="380" y="237" fill="#BAE6FD" font-size="11">more info →</text>
+  </g>
+
+  <g font-family="monospace">
+    <text x="54" y="305" fill="#475569" font-size="11">mode: learning</text>
+    <text x="706" y="305" fill="#475569" font-size="11" text-anchor="end">stars: on ✦</text>
+  </g>
+</svg>
