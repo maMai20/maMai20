@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maMai20/maMai20/main/cat-profile.svg" width="100%" alt="Animated cat coding inside a starry computer screen">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Frontend+development+through+practical+projects;Learning+by+building+useful+interfaces;React%2C+Next.js%2C+TypeScript+%2B+curiosity" alt="Animated profile focus">
 
 <br>
