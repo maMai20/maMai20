@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090D1F,50:312E81,100:7C3AED&amp;height=220&amp;section=header&amp;text=Hi%2C%20I%27m%20Kimmy%20%E2%9C%A8&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=40&amp;desc=Learning%20by%20building%20%E2%80%A2%20Growing%20through%20projects&amp;descAlignY=64&amp;descSize=16&amp;animation=twinkling" width="100%" alt="Hi, I'm Kimmy">
+<img src="https://raw.githubusercontent.com/maMai20/maMai20/main/cat-console.svg" width="100%" alt="Animated cat coding under the stars">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+developer+in+progress+%E2%9C%A8;Learning+by+building+real+projects;Curious+about+clean+and+useful+interfaces" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+development%2C+one+project+at+a+time;Learning+through+real+projects;Building+clean%2C+useful+interfaces" alt="Animated introduction">
 
 <br>
 
@@ -18,22 +18,24 @@
 
 ---
 
-## 🌟 A little about me
+## 🌟 Current orbit
 
-I enjoy turning ideas into clean interfaces, useful tools, and thoughtful user flows — learning something new with every project I build.
+Frontend development, one project at a time — with a focus on clean interfaces, useful tools, and thoughtful user flows.
 
-- 🎨 Exploring frontend development and user-focused interfaces
+- 🎨 Exploring user-focused frontend experiences
 - 🧩 Learning by building with React, Next.js, TypeScript, and modern CSS
 - 🛠️ Growing through practical projects and hands-on experimentation
-- 🌱 Deepening my skills in accessibility, responsive design, and maintainable UI
+- 🌱 Deepening skills in accessibility, responsive design, and maintainable UI
 - 🤝 Open to feedback, collaboration, and new opportunities to grow
 
-## 🌌 My coding journey
+> 🐾 Cat-approved workflow: observe → build → improve.
+
+## 🌌 Coding journey
 
 <div align="center">
 
 <a href="https://github.com/maMai20">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&amp;bg_color=0b1020&amp;color=c4b5fd&amp;line=8b5cf6&amp;point=f9a8d4&amp;area=true&amp;hide_border=true&amp;custom_title=Kimmy%27s%20Coding%20Journey" width="100%" alt="Kimmy's coding activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maMai20&amp;bg_color=0b1020&amp;color=c4b5fd&amp;line=8b5cf6&amp;point=f9a8d4&amp;area=true&amp;hide_border=true&amp;custom_title=Coding%20Journey%20%E2%9C%A6" width="100%" alt="Coding activity graph">
 </a>
 
 </div>
@@ -73,7 +75,7 @@ A hands-on productivity workspace that brings everyday tools into one interface.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-## 🌱 Current orbit
+## 🌱 Current orbit checklist
 
 | Orbit | Focus |
 | --- | --- |
@@ -82,7 +84,7 @@ A hands-on productivity workspace that brings everyday tools into one interface.
 | 📚 Learning | Testing, accessibility, and cleaner TypeScript |
 | 🌟 Looking for | Feedback, collaboration, and the next challenge |
 
-## ✨ My north star
+## ✨ North star
 
 > Keep building. Keep learning. Keep making useful things.
 
