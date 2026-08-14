@@ -7,9 +7,11 @@
 ✦ ⋆｡°✩ ☾ ✩°｡⋆ ✦
 
 <p>
-  <a href="#-featured-build">Build</a>
+  <a href="#-profile-focus">Focus</a>
   &nbsp;·&nbsp;
   <a href="#-toolkit">Toolkit</a>
+  &nbsp;·&nbsp;
+  <a href="#-how-i-work">Approach</a>
   &nbsp;·&nbsp;
   <a href="#-coding-journey">Journey</a>
   &nbsp;·&nbsp;
@@ -40,52 +42,27 @@
 
 </div>
 
-## ✦ What I build
+## ✦ Profile focus
 
-I build frontend experiences that feel clear, useful, and considered — from the first interaction to the small details that make an interface easier to use.
+I’m focused on frontend development — making interfaces easier to understand, more pleasant to use, and stronger with every iteration.
 
-- **Interface:** responsive layouts, reusable components, and consistent visual systems
-- **Interaction:** stateful UI, time-based flows, and feedback that feels natural
-- **Product thinking:** turning everyday problems into simple, usable experiences
-- **Growth:** learning through real projects, feedback, and another careful iteration
+- Designing responsive layouts with a calm, consistent visual rhythm
+- Building reusable React components and practical user flows
+- Paying attention to states, feedback, accessibility, and small details
+- Learning through real projects instead of stopping at the first working version
 
-## ⚡ Featured build
+## 🧩 Strengths I’m building
 
-### [SuckT — Productivity Workspace](https://github.com/maMai20/SuckTv2)
+- **UI engineering:** turning ideas into clean, responsive screens
+- **Interaction design:** handling active, empty, loading, and error states thoughtfully
+- **Component thinking:** breaking larger experiences into reusable pieces
+- **Product sense:** keeping the interface connected to a real user need
 
-A calm productivity workspace that brings tasks, planning, and focus tools together in one interface.
+## 🪐 Selected work
 
-<p>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111827" alt="React 19">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS Modules">
-</p>
+I’m currently exploring these ideas through [SuckT](https://github.com/maMai20/SuckTv2), a productivity workspace built around tasks, planning, focus sessions, and reusable UI.
 
-<p>
-  <img src="https://img.shields.io/github/stars/maMai20/SuckTv2?style=flat-square&amp;label=stars&amp;color=f9a8d4" alt="SuckT stars">
-  <img src="https://img.shields.io/github/last-commit/maMai20/SuckTv2?style=flat-square&amp;label=updated&amp;color=67e8f9" alt="SuckT last updated">
-  <img src="https://img.shields.io/github/languages/top/maMai20/SuckTv2?style=flat-square&amp;label=primary%20language&amp;color=A7F3D0" alt="SuckT primary language">
-</p>
-
-<details>
-  <summary><strong>What this project demonstrates</strong></summary>
-  <br>
-
-- **Plan:** a to-do list for organizing everyday tasks
-- **Schedule:** an interactive calendar for planning time
-- **Focus:** a timer for Pomodoro-style sessions
-- **Flow:** login and registration screen experiences
-- **Atmosphere:** GIF and background-audio experiments
-- **System:** reusable React components and theme-aware styling
-
-</details>
-
-<p>
-  <a href="https://github.com/maMai20/SuckTv2">
-    <img src="https://img.shields.io/badge/Explore%20the%20repository-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore the SuckT repository">
-  </a>
-</p>
+<sub>One project, many frontend fundamentals — kept here as a quiet work sample.</sub>
 
 ## 🧰 Toolkit
 
@@ -108,24 +85,24 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-## 🧠 How I build
+## 🧠 How I work
 
 `User flow` → `small components` → `real interactions` → `visual polish` → `next iteration`
 
-- I start with the problem and the user flow before adding decoration.
-- I split larger screens into pieces that are easier to understand and improve.
-- I pay attention to loading, empty, active, and error states.
-- I refine for responsiveness, accessibility, and a calmer visual rhythm.
+- Start with the problem and the user flow before adding decoration.
+- Break larger screens into pieces that are easier to understand and improve.
+- Check loading, empty, active, and error states while building.
+- Refine for responsiveness, accessibility, and a calmer visual rhythm.
 
 <details>
-  <summary><strong>What I am improving next</strong></summary>
+  <summary><strong>Current learning direction</strong></summary>
   <br>
 
 - Testing interactive components and important user flows
 - Improving accessibility and responsive behavior
 - Writing clearer, more maintainable TypeScript
-- Consolidating project structure and documenting data flow
-- Shipping a polished live demo
+- Documenting structure and data flow
+- Preparing work for a polished live demo
 
 </details>
 
@@ -146,9 +123,9 @@ A calm productivity workspace that brings tasks, planning, and focus tools toget
 Early-career frontend opportunities, thoughtful collaboration, and feedback from people who enjoy building useful things.
 
 <p>
-  <a href="https://github.com/maMai20/SuckTv2">View the featured project</a>
+  <a href="https://github.com/maMai20">View my GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/maMai20">View all repositories</a>
+  <a href="https://github.com/maMai20/SuckTv2">Quietly inspect the work sample</a>
 </p>
 
 <div align="center">
