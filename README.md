@@ -18,6 +18,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://maMai20.github.io/maMai20/">
+    <img src="https://img.shields.io/badge/Open%20interactive%20profile-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open interactive profile">
+  </a>
+</p>
+
+> This profile has a live dashboard version with interactive navigation, responsive layout, GitHub data, charts, and project cards.
+
 ## 🌟 Current orbit
 
 Frontend development, one project at a time — with a focus on clean interfaces, useful tools, and thoughtful user flows.
